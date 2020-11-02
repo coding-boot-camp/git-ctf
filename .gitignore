@@ -1,12 +1,3 @@
-### Environments
-!example.env
-local.py
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
-.vscode
 
 
 ### Jetbrains
@@ -32,7 +23,6 @@ local_settings.py
 ## Collected Static Files
 src/static/
 src/templates/
-
 
 ## Distribution / packaging
 .Python
