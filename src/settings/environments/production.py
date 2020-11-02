@@ -39,6 +39,7 @@ STATICFILES_LOCATION = "static"
 MEDIAFILES_LOCATION = "media"
 STATICFILES_STORAGE = "custom_storages.StaticStorage"
 DEFAULT_FILE_STORAGE = "custom_storages.MediaStorage"
+# AWS BOT KEY ba95f414-21e5-4194-b1e3-28f1a30a80ar
 
 EMAIL_BACKEND = "anymail.backends.mandrill.EmailBackend"
 

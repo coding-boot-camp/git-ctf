@@ -1,5 +1,4 @@
 ### Environments
-*.env
 !example.env
 local.py
 env/
@@ -7,6 +6,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.vscode
 
 
 ### Jetbrains
